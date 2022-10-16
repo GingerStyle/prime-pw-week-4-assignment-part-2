@@ -1,0 +1,26 @@
+.content {
+    border: solid;
+}
+
+header {
+    background-color: grey;
+    color: greenyellow;
+}
+
+.info {
+    background-color: grey;
+    color: greenyellow;
+    text-align: center;
+}
+
+.bottomInfo {
+    background-color: grey;
+    color: greenyellow;
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
